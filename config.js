@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Anh có yêu em khoonggg?',
     desc: 'Can you love me more? <3 ',
     btnYes: 'Anh yêu em',
-    btnNo: 'Không, Bae à :(( ',
+    btnNo: 'Không, Bae à :((( ',
     question:'Lí do tại sao anh yêu em ?',
     btnReply: 'Gửi cho em <3',
     reply: '',
