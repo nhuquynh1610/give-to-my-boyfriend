@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'Love u ~',
     title: 'Anh có yêu em khoonggg?',
     desc: 'Can you love me more? <3 ',
-    btnYes: 'Anh yêu em',
+    btnYes: 'Anh yêu em <3',
     btnNo: 'Không, Bae à :((( ',
     question:'Lí do tại sao anh yêu em ?',
     btnReply: 'Gửi cho em <3',
